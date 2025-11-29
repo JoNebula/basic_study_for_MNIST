@@ -54,6 +54,6 @@ pip install torch torchvision torchaudio numpy matplotlib torchsummary tqdm
 ### 2. 노트북 실행
 Jupyter Notebook 또는 Google Colab 환경에서 노트북 파일을 실행합니다.
 
-```bash MNIST_classification.ipynb``` 파일을 엽니다.
+```MNIST_classification.ipynb``` 파일을 엽니다.
 
 모든 셀을 순서대로 실행하여 데이터 로드 → 모델 정의 → 학습 → 평가 과정을 진행합니다.
